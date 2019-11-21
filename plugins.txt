@@ -1,0 +1,11 @@
+ansicolor
+git-client
+gitlab-plugin
+durable-task
+rebuild
+
+# newest versions of openshift plugins
+openshift-client
+openshift-sync
+openshift-login
+openshift-pipeline
